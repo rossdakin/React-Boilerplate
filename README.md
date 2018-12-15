@@ -4,6 +4,20 @@ React boilerplate thenewboston tutorials.
 
 ## Getting started
 
+Please do:
+```
+> npm install
+```
+
+```
+> http-server
+```
+
+Please view:
+```
+> http://localhost:8080/src/AllFiles/WeatherApp/
+```
+
 To get started simply download the repo using the link below. All required files are included.
 
 https://github.com/buckyroberts/React-Boilerplate/archive/master.zip

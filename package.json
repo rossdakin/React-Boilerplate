@@ -12,5 +12,13 @@
     "gulp": "^3.9.1",
     "gulp-clean-css": "^2.0.10",
     "gulp-sass": "^2.3.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VanessaOrtiz30/React-Boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VanessaOrtiz30/React-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/VanessaOrtiz30/React-Boilerplate#readme"
 }
