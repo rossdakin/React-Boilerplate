@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/VanessaOrtiz30/React-Boilerplate/issues"
   },
-  "homepage": "https://github.com/VanessaOrtiz30/React-Boilerplate#readme"
+  "homepage": "https://github.com/VanessaOrtiz30/React-Boilerplate#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
 }
